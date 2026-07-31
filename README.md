@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/bisanjeet109/dsa-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/bisanjeet109/dsa-solutions/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/bisanjeet109/dsa-solutions/tree/master/0064-minimum-path-sum) |
 ## Dynamic Programming
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bisanjeet109/dsa-solutions/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/bisanjeet109/dsa-solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
