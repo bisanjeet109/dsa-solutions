@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/bisanjeet109/dsa-solutions/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/bisanjeet109/dsa-solutions/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/bisanjeet109/dsa-solutions/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/bisanjeet109/dsa-solutions/tree/master/0115-distinct-subsequences) |
 ## Matrix
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/bisanjeet109/dsa-solutions/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/bisanjeet109/dsa-solutions/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/bisanjeet109/dsa-solutions/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/bisanjeet109/dsa-solutions/tree/master/0115-distinct-subsequences) |
 ## Sliding Window
 |  |
 | ------- |
