@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bisanjeet109/dsa-solutions/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/bisanjeet109/dsa-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/bisanjeet109/dsa-solutions/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/bisanjeet109/dsa-solutions/tree/master/0127-word-ladder) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/bisanjeet109/dsa-solutions/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/bisanjeet109/dsa-solutions/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/bisanjeet109/dsa-solutions/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/bisanjeet109/dsa-solutions/tree/master/0127-word-ladder) |
 ## Sliding Window
 |  |
 | ------- |
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/bisanjeet109/dsa-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/bisanjeet109/dsa-solutions/tree/master/0127-word-ladder) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/bisanjeet109/dsa-solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
