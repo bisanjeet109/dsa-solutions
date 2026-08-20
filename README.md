@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/bisanjeet109/dsa-solutions/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/bisanjeet109/dsa-solutions/tree/master/0068-text-justification) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bisanjeet109/dsa-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0135-candy](https://github.com/bisanjeet109/dsa-solutions/tree/master/0135-candy) |
 | [0239-sliding-window-maximum](https://github.com/bisanjeet109/dsa-solutions/tree/master/0239-sliding-window-maximum) |
 ## Dynamic Programming
 |  |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/bisanjeet109/dsa-solutions/tree/master/0127-word-ladder) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/bisanjeet109/dsa-solutions/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
