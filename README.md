@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/bisanjeet109/dsa-solutions/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/bisanjeet109/dsa-solutions/tree/master/0060-permutation-sequence) |
 ## Recursion
 |  |
