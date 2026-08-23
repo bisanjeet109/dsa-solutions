@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bisanjeet109/dsa-solutions/tree/master/0042-trapping-rain-water) |
+| [0086-partition-list](https://github.com/bisanjeet109/dsa-solutions/tree/master/0086-partition-list) |
 ## Stack
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/bisanjeet109/dsa-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0086-partition-list](https://github.com/bisanjeet109/dsa-solutions/tree/master/0086-partition-list) |
 ## Breadth-First Search
 |  |
 | ------- |
