@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/bisanjeet109/dsa-solutions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/bisanjeet109/dsa-solutions/tree/master/0051-n-queens) |
+| [0089-gray-code](https://github.com/bisanjeet109/dsa-solutions/tree/master/0089-gray-code) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/bisanjeet109/dsa-solutions/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/bisanjeet109/dsa-solutions/tree/master/0060-permutation-sequence) |
+| [0089-gray-code](https://github.com/bisanjeet109/dsa-solutions/tree/master/0089-gray-code) |
 ## Recursion
 |  |
 | ------- |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/bisanjeet109/dsa-solutions/tree/master/0135-candy) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/bisanjeet109/dsa-solutions/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
