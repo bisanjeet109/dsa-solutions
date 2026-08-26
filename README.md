@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/bisanjeet109/dsa-solutions/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/bisanjeet109/dsa-solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/bisanjeet109/dsa-solutions/tree/master/0127-word-ladder) |
+| [0273-integer-to-english-words](https://github.com/bisanjeet109/dsa-solutions/tree/master/0273-integer-to-english-words) |
 ## Sliding Window
 |  |
 | ------- |
@@ -86,11 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/bisanjeet109/dsa-solutions/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/bisanjeet109/dsa-solutions/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/bisanjeet109/dsa-solutions/tree/master/0089-gray-code) |
+| [0273-integer-to-english-words](https://github.com/bisanjeet109/dsa-solutions/tree/master/0273-integer-to-english-words) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/bisanjeet109/dsa-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/bisanjeet109/dsa-solutions/tree/master/0060-permutation-sequence) |
+| [0273-integer-to-english-words](https://github.com/bisanjeet109/dsa-solutions/tree/master/0273-integer-to-english-words) |
 ## Queue
 |  |
 | ------- |
