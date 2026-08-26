@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bisanjeet109/dsa-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/bisanjeet109/dsa-solutions/tree/master/0135-candy) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/bisanjeet109/dsa-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0200-number-of-islands](https://github.com/bisanjeet109/dsa-solutions/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/bisanjeet109/dsa-solutions/tree/master/0239-sliding-window-maximum) |
 ## Dynamic Programming
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/bisanjeet109/dsa-solutions/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/bisanjeet109/dsa-solutions/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/bisanjeet109/dsa-solutions/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/bisanjeet109/dsa-solutions/tree/master/0200-number-of-islands) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -139,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/bisanjeet109/dsa-solutions/tree/master/0049-group-anagrams) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/bisanjeet109/dsa-solutions/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/bisanjeet109/dsa-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
