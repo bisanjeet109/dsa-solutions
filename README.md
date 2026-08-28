@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bisanjeet109/dsa-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/bisanjeet109/dsa-solutions/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/bisanjeet109/dsa-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/bisanjeet109/dsa-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/bisanjeet109/dsa-solutions/tree/master/0076-minimum-window-substring) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/bisanjeet109/dsa-solutions/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/bisanjeet109/dsa-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/bisanjeet109/dsa-solutions/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/bisanjeet109/dsa-solutions/tree/master/0065-valid-number) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/bisanjeet109/dsa-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/bisanjeet109/dsa-solutions/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/bisanjeet109/dsa-solutions/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/bisanjeet109/dsa-solutions/tree/master/0089-gray-code) |
 | [0273-integer-to-english-words](https://github.com/bisanjeet109/dsa-solutions/tree/master/0273-integer-to-english-words) |
