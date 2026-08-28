@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bisanjeet109/dsa-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/bisanjeet109/dsa-solutions/tree/master/0135-candy) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/bisanjeet109/dsa-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/bisanjeet109/dsa-solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/bisanjeet109/dsa-solutions/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/bisanjeet109/dsa-solutions/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/bisanjeet109/dsa-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/bisanjeet109/dsa-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/bisanjeet109/dsa-solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/bisanjeet109/dsa-solutions/tree/master/0086-partition-list) |
+| [0189-rotate-array](https://github.com/bisanjeet109/dsa-solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/bisanjeet109/dsa-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/bisanjeet109/dsa-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bisanjeet109/dsa-solutions/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/bisanjeet109/dsa-solutions/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/bisanjeet109/dsa-solutions/tree/master/0089-gray-code) |
+| [0189-rotate-array](https://github.com/bisanjeet109/dsa-solutions/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/bisanjeet109/dsa-solutions/tree/master/0273-integer-to-english-words) |
 ## Recursion
 |  |
