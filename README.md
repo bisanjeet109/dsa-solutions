@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bisanjeet109/dsa-solutions/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/bisanjeet109/dsa-solutions/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/bisanjeet109/dsa-solutions/tree/master/0089-gray-code) |
+| [0172-factorial-trailing-zeroes](https://github.com/bisanjeet109/dsa-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/bisanjeet109/dsa-solutions/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/bisanjeet109/dsa-solutions/tree/master/0273-integer-to-english-words) |
 ## Recursion
