@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/bisanjeet109/dsa-solutions/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/bisanjeet109/dsa-solutions/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/bisanjeet109/dsa-solutions/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/bisanjeet109/dsa-solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/bisanjeet109/dsa-solutions/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bisanjeet109/dsa-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/bisanjeet109/dsa-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/bisanjeet109/dsa-solutions/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/bisanjeet109/dsa-solutions/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/bisanjeet109/dsa-solutions/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/bisanjeet109/dsa-solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/bisanjeet109/dsa-solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/bisanjeet109/dsa-solutions/tree/master/0127-word-ladder) |
 | [0273-integer-to-english-words](https://github.com/bisanjeet109/dsa-solutions/tree/master/0273-integer-to-english-words) |
