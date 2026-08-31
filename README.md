@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/bisanjeet109/dsa-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/bisanjeet109/dsa-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/bisanjeet109/dsa-solutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/bisanjeet109/dsa-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/bisanjeet109/dsa-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/bisanjeet109/dsa-solutions/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/bisanjeet109/dsa-solutions/tree/master/0064-minimum-path-sum) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bisanjeet109/dsa-solutions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/bisanjeet109/dsa-solutions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/bisanjeet109/dsa-solutions/tree/master/0200-number-of-islands) |
 ## Two Pointers
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/bisanjeet109/dsa-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/bisanjeet109/dsa-solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/bisanjeet109/dsa-solutions/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/bisanjeet109/dsa-solutions/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/bisanjeet109/dsa-solutions/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/bisanjeet109/dsa-solutions/tree/master/0172-factorial-trailing-zeroes) |
