@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/bisanjeet109/dsa-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/bisanjeet109/dsa-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/bisanjeet109/dsa-solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/bisanjeet109/dsa-solutions/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/bisanjeet109/dsa-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/bisanjeet109/dsa-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/bisanjeet109/dsa-solutions/tree/master/0049-group-anagrams) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bisanjeet109/dsa-solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/bisanjeet109/dsa-solutions/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/bisanjeet109/dsa-solutions/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/bisanjeet109/dsa-solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/bisanjeet109/dsa-solutions/tree/master/0091-decode-ways) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/bisanjeet109/dsa-solutions/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/bisanjeet109/dsa-solutions/tree/master/0135-candy) |
 ## Bit Manipulation
 |  |
