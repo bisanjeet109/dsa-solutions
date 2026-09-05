@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bisanjeet109/dsa-solutions/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/bisanjeet109/dsa-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bisanjeet109/dsa-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/bisanjeet109/dsa-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/bisanjeet109/dsa-solutions/tree/master/0042-trapping-rain-water) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/bisanjeet109/dsa-solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/bisanjeet109/dsa-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/bisanjeet109/dsa-solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/bisanjeet109/dsa-solutions/tree/master/0086-partition-list) |
