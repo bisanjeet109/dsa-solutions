@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/bisanjeet109/dsa-solutions/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/bisanjeet109/dsa-solutions/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/bisanjeet109/dsa-solutions/tree/master/0068-text-justification) |
+| [0088-merge-sorted-array](https://github.com/bisanjeet109/dsa-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/bisanjeet109/dsa-solutions/tree/master/0090-subsets-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bisanjeet109/dsa-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/bisanjeet109/dsa-solutions/tree/master/0135-candy) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/bisanjeet109/dsa-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/bisanjeet109/dsa-solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/bisanjeet109/dsa-solutions/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/bisanjeet109/dsa-solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/bisanjeet109/dsa-solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/bisanjeet109/dsa-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/bisanjeet109/dsa-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/bisanjeet109/dsa-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/bisanjeet109/dsa-solutions/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/bisanjeet109/dsa-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/bisanjeet109/dsa-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/bisanjeet109/dsa-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Depth-First Search
