@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/bisanjeet109/dsa-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/bisanjeet109/dsa-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/bisanjeet109/dsa-solutions/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/bisanjeet109/dsa-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bisanjeet109/dsa-solutions/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/bisanjeet109/dsa-solutions/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/bisanjeet109/dsa-solutions/tree/master/0088-merge-sorted-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bisanjeet109/dsa-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/bisanjeet109/dsa-solutions/tree/master/0045-jump-game-ii) |
+| [0063-unique-paths-ii](https://github.com/bisanjeet109/dsa-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bisanjeet109/dsa-solutions/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/bisanjeet109/dsa-solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/bisanjeet109/dsa-solutions/tree/master/0091-decode-ways) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bisanjeet109/dsa-solutions/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/bisanjeet109/dsa-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bisanjeet109/dsa-solutions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/bisanjeet109/dsa-solutions/tree/master/0200-number-of-islands) |
 ## Two Pointers
