@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/bisanjeet109/dsa-solutions/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/bisanjeet109/dsa-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/bisanjeet109/dsa-solutions/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bisanjeet109/dsa-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bisanjeet109/dsa-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/bisanjeet109/dsa-solutions/tree/master/0135-candy) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/bisanjeet109/dsa-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/bisanjeet109/dsa-solutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/bisanjeet109/dsa-solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/bisanjeet109/dsa-solutions/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bisanjeet109/dsa-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bisanjeet109/dsa-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0132-palindrome-partitioning-ii](https://github.com/bisanjeet109/dsa-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/bisanjeet109/dsa-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
