@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/bisanjeet109/dsa-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/bisanjeet109/dsa-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/bisanjeet109/dsa-solutions/tree/master/1929-concatenation-of-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/bisanjeet109/dsa-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bisanjeet109/dsa-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bisanjeet109/dsa-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/bisanjeet109/dsa-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/bisanjeet109/dsa-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## String
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/bisanjeet109/dsa-solutions/tree/master/0068-text-justification) |
 | [1929-concatenation-of-array](https://github.com/bisanjeet109/dsa-solutions/tree/master/1929-concatenation-of-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/bisanjeet109/dsa-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Math
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bisanjeet109/dsa-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bisanjeet109/dsa-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/bisanjeet109/dsa-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/bisanjeet109/dsa-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Depth-First Search
 |  |
 | ------- |
