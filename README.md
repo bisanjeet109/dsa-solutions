@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/bisanjeet109/dsa-solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/bisanjeet109/dsa-solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/bisanjeet109/dsa-solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/bisanjeet109/dsa-solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/bisanjeet109/dsa-solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/bisanjeet109/dsa-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/bisanjeet109/dsa-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/bisanjeet109/dsa-solutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/bisanjeet109/dsa-solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/bisanjeet109/dsa-solutions/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/bisanjeet109/dsa-solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/bisanjeet109/dsa-solutions/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/bisanjeet109/dsa-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0273-integer-to-english-words](https://github.com/bisanjeet109/dsa-solutions/tree/master/0273-integer-to-english-words) |
